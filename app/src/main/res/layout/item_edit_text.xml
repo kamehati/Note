@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/edit_nested_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:overScrollMode="never"
+    android:padding="30dp">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/edit_text_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:nestedScrollingEnabled="true"
+            android:hint="@string/note_hint"
+            android:theme="@style/EditTextColorControl"
+
+            android:gravity="top"
+            android:background="@null" />
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+</androidx.core.widget.NestedScrollView>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="note_hint">ここをタップして内容を入力</string>
+    <string name="add">追加</string>
+    <string name="image">image</string>
+    <string name="date">年月日</string>
+</resources>

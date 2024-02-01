@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+
+    <color name="md_blue_50">#E3F2FD</color>
+    <color name="md_blue_100">#BBDEFB</color>
+    <color name="md_blue_200">#90CAF9</color>
+    <color name="md_blue_300">#64B5F6</color>
+    <color name="md_blue_400">#42A5F4</color>
+    <color name="md_blue_500">#2196F3</color>
+    <color name="md_blue_600">#1E88E5</color>
+    <color name="md_blue_700">#1976D2</color>
+    <color name="md_blue_800">#1565C0</color>
+    <color name="md_blue_900">#0D47A1</color>
+    <color name="md_blue_A100">#82B1FF</color>
+    <color name="md_blue_A200">#448AFF</color>
+    <color name="md_blue_A400">#2979FF</color>
+    <color name="md_blue_A700">#2962FF</color>
+
+    <color name="md_light_blue_50">#E1F5FE</color>
+    <color name="md_light_blue_100">#B3E5FC</color>
+    <color name="md_light_blue_200">#81D4FA</color>
+    <color name="md_light_blue_300">#4FC3F7</color>
+    <color name="md_light_blue_400">#29B6FC</color>
+    <color name="md_light_blue_500">#03A9F4</color>
+    <color name="md_light_blue_600">#039BE5</color>
+    <color name="md_light_blue_700">#0288D1</color>
+    <color name="md_light_blue_800">#0377BD</color>
+    <color name="md_light_blue_900">#01579B</color>
+    <color name="md_light_blue_A100">#80D8FF</color>
+    <color name="md_light_blue_A200">#40C4FF</color>
+    <color name="md_light_blue_A400">#00B0FF</color>
+    <color name="md_light_blue_A700">#0091EA</color>
+
+    <color name="md_blue_grey_50">#ECEFF1</color>
+    <color name="md_blue_grey_100">#CFD8DC</color>
+    <color name="md_blue_grey_200">#B0BBC5</color>
+    <color name="md_blue_grey_300">#90A4AE</color>
+    <color name="md_blue_grey_400">#78909C</color>
+    <color name="md_blue_grey_500">#607D8B</color>
+    <color name="md_blue_grey_600">#546E7A</color>
+    <color name="md_blue_grey_700">#455A64</color>
+    <color name="md_blue_grey_800">#37474F</color>
+    <color name="md_blue_grey_900">#263238</color>
+
+    <color name="md_grey_50">#FAFAFA</color>
+    <color name="md_grey_100">#F5F5F5</color>
+    <color name="md_grey_200">#EEEEEE</color>
+    <color name="md_grey_300">#E0E0E0</color>
+    <color name="md_grey_400">#BDBDBD</color>
+    <color name="md_grey_500">#9E9E9E</color>
+    <color name="md_grey_600">#757575</color>
+    <color name="md_grey_700">#616161</color>
+    <color name="md_grey_800">#424242</color>
+    <color name="md_grey_900">#212121</color>
+    <color name="md_grey_925">#1b1b1b</color>
+
+    <color name="md_black_1000">#000000</color>
+    <color name="md_white_1000">#FFFFFF</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="md_grey_transparent_900">#21212100</color>
+</resources>
